@@ -6,7 +6,7 @@
 
 This project is tic tac toe game developed using ruby language. 
 
-[!screenshot](images/screenshot.png)
+![screenshot](images/screenshot.png)
 
 ## Instructions and Game rules
 

@@ -2,18 +2,22 @@
 
 [![hire-badge](https://img.shields.io/badge/Consult%20/%20Hire%20Shabab-Click%20to%20Contact-brightgreen)](mailto:shababsaifi@gmail.com) [![Twitter Follow](https://img.shields.io/twitter/follow/shabab_ali?label=Follow%20Shabab%20on%20Twitter&style=social)](https://twitter.com/shabab_ali)
 
-# TIC-TAC-TOE [Collaborative Project]
+# TIC-TAC-TOE
 
 This project is tic tac toe game developed using ruby language. 
+
+[!screenshot](images/screenshot.png)
 
 ## Instructions and Game rules
 
 ### Instructions
+
 - Execute `main.rb` file from bin directory.
 - Enter your names and symbols.
 - Enter number from 1-9 according to game rules.
 
 ### Game Rules
+
 - The game is played on a grid that's 3 squares by 3 squares.
 
 - You can choose from two symbols either 'X' or 'O', your friend will automatically allocated remaining symbol. Players take turns putting their marks in empty squares.
@@ -32,6 +36,7 @@ Ruby
 [Click to see on repl.it](https://repl.it/@shababsaifi/Tic-Tac-Toe)
 
 ## Getting Started
+
 Clone or fork the repository.
 Execute `main.rb` file
 
@@ -39,11 +44,11 @@ Execute `main.rb` file
 
 Murilo Roque Paiva da Silva
 
-Github: @MuriloRoque
+Github: [@MuriloRoque](https://github.com/MuriloRoque)
 
-Twitter: @MuriloRoquePai1
+Twitter: [@MuriloRoquePai1](https://twitter.com/MuriloRoquePai1)
 
-Linkedin: https://www.linkedin.com/in/murilo-roque-b1268741/
+Linkedin: [MuriloRoque](https://www.linkedin.com/in/murilo-roque-b1268741/)
 
 ## Author 2
 
